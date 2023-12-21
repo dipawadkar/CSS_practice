@@ -1,0 +1,6 @@
+div {
+  height: 50rem;
+  background-image: url('w1.jpg');
+  /* background-color:blue; */
+  border: 1px solid black;
+}
